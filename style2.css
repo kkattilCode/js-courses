@@ -1,0 +1,106 @@
+  *{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   }
+   
+   .container1 {
+      border: 25px solid white;  
+      /* width:80% ; */
+      /* margin:auto; */
+       height : 1200px;  
+  }   
+  .container3 {
+    background-color: black;
+    border: 25px solid rgb(188, 241, 213);
+    border-top:45px solid rgb(188, 241, 213);
+    border-left:75px solid rgb(188, 241, 213);
+    border-bottom:45px solid rgb(188, 241, 213);
+    border-right:75px solid rgb(188, 241, 213);
+    height: 100%; 
+    width : 100%    
+  }
+  .ulist {
+    margin : auto; 
+    margin-left: 90px;
+    margin-bottom: 90px;
+    width : 90%;
+    padding-top: 40px;
+    display : flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .par{
+    margin-left: 0px;        
+  }  
+  .fir,.sec,.thir {   
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;   
+  }
+  li {       
+    padding-left: 50px;
+    color: rgb(75, 72, 72); 
+    display: inline-block;         
+    justify-content: space-between;
+  } 
+  .thir {
+     float: right;  
+    /* margin-left: 50px;  
+    padding-left: 50px; */    
+  }
+  .spf {
+    border-style: solid;
+    background-color: bisque;
+    color:black; 
+    box-shadow: -5px 5px  bisque ;   
+  }
+  a {
+    text-decoration: none;
+    color: lightgray;      
+    }   
+  
+  .fa {
+    color: white;    
+    width: 33px;
+    height: 33px;
+    border-radius: 50%;
+    background-color: white; 
+  }
+  .container{
+    padding:0px;
+    box-sizing:border-box;
+    height: 100%;
+    margin-bottom: 90px;
+    margin-left: 120px;
+    margin-right: 120px;
+  }
+  p {
+    font-family: 'Open Sans', sans-serif;
+  }
+  .left-col {
+    width: 50%;
+    height: 80%; 
+    float:left;
+    color : white;  
+    margin-top: 0px;  
+  }
+  .right-col {
+    width: 50%;
+    height: 100%; 
+    float: left; 
+    color : white;  
+    margin-top: 0px;  
+  }
+span {
+    color: blanchedalmond;
+}
+span1 {
+    color: black;
+}
+h1 {
+    font-size: 90px;
+}
+
+
+
+  
